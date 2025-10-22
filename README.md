@@ -1,5 +1,3 @@
-💫 About Me: <br>
-
 Hi 👋, I'm Manasa GV <br>
 Data Analyst | Python | SQL | Excel | Tableau | Turning Data into Insights<br>
 🎓 A BCA Graduate who has completed a course in Data Science, Machine Learning, and AI, and am now deeply interested in Data Analytics. <br>
